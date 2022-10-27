@@ -1,7 +1,7 @@
 [
     {
         "id": "6359e362ce7c4dbe74d783c8",
-    "category_id": 1,
+    "category_id": "01",
         "title": "Hyper Text Markup Language",
         "author": {
           "name": "HTML",
@@ -18,7 +18,7 @@
       },
       {
         "id": "6359e362f3cd3eeb85d2e813",
-        "category_id": 2,
+        "category_id": "02",
         "title": "Cascading Style Sheets",
         "author": {
           "name": "HTML",
@@ -33,7 +33,7 @@
       },
       {
         "id": "6359e36261d7a38de5afaae3",
-    "category_id": 3,
+    "category_id": "03",
         "title": "Front-end framework",
         "author": {
           "name": "Bootstrap",
@@ -46,7 +46,7 @@
       },
       {
         "id": "6359e3627de0a89180be64b5",
-    "category_id": 4,
+    "category_id": "04",
         "title": "Front-end framework",
         "author": {
           "name": "Tailwind CSS",
@@ -59,7 +59,7 @@
       },
       {
         "id": "6359e362d68bd8bc4b020d92",
-    "category_id": 5,
+    "category_id": "05",
         "title": "Programming language",
         "author": {
           "name": "JavaScript",
@@ -76,7 +76,7 @@
       },
       {
         "id": "6359e3625c034eece4184952",
-    "category_id": 6,
+    "category_id": "06",
         "title": "JavaScript library",
         "author": {
           "name": "React",
@@ -89,7 +89,7 @@
       },
       {
         "id": "6359e3627e38c4051efc9f51",
-    "category_id": 7,
+    "category_id": "07",
         "title": "Platform",
         "author": {
           "name": "Node.js",
@@ -100,7 +100,7 @@
       },
       {
         "id": "6359e362b9b4d1159b9944fd",
-    "category_id": 8,
+    "category_id": "08",
         "title": "Company",
         "author": {
           "name": "Firebase",
@@ -111,7 +111,7 @@
       },
       {
         "id": "6359e362f35d9593c2365730",
-    "category_id": 9,
+    "category_id": "09",
         "title": "Computer program",
         "author": {
           "name": "MongoDB",
