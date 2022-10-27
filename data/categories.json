@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "HTML"
+    },
+    {
+      "id": "02",
+      "name": "CSS"
+    },
+    {
+      "id": "03",
+      "name": "JavaScript"
+    },
+    {
+      "id": "04",
+      "name": "Bootstrap"
+    },
+    {
+      "id": "05",
+      "name": "Tailwind CSS"
+    },
+    {
+      "id": "06",
+      "name": "React"
+    },
+    {
+      "id": "07",
+      "name": "Node.js"
+    },
+    {
+      "id": "08",
+      "name": "Firebase"
+    },
+    {
+      "id": "08",
+      "name": "MongoDB"
+    }
+  ]
