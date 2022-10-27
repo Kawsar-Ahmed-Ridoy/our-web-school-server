@@ -1,0 +1,124 @@
+[
+    {
+        "id": "6359e362ce7c4dbe74d783c8",
+    "category_id": 1,
+        "title": "Hyper Text Markup Language",
+        "author": {
+          "name": "HTML",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
+  
+        "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
+        
+        HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+        
+        An HTML element is set off from other text in a document by "tags", which consist of the element name surrounded by "<" and ">". The name of an element inside a tag is case insensitive. That is, it can be written in uppercase, lowercase, or a mixture. For example, the <title> tag can be written as <Title>, <TITLE>, or in any other way. However, the convention and recommended practice is to write tags in lowercase."
+      },
+      {
+        "id": "6359e362f3cd3eeb85d2e813",
+        "category_id": 2,
+        "title": "Cascading Style Sheets",
+        "author": {
+          "name": "HTML",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "details": "CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.
+
+        Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on a mobile device.[4]
+        
+        The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable."
+      },
+      {
+        "id": "6359e36261d7a38de5afaae3",
+    "category_id": 3,
+        "title": "Front-end framework",
+        "author": {
+          "name": "Bootstrap",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+        "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.
+
+        As a framework, Bootstrap includes the basics for responsive web development, so developers only need to insert the code into a pre-defined grid system. The Bootstrap framework is built on Hypertext Markup Language (HTML), cascading style sheets (CSS) and JavaScript. Web developers using Bootstrap can build websites much faster without spending time worrying about basic commands and functions."
+      },
+      {
+        "id": "6359e3627de0a89180be64b5",
+    "category_id": 4,
+        "title": "Front-end framework",
+        "author": {
+          "name": "Tailwind CSS",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. Instead, it creates a list of "utility" CSS classes that can be used to style each element by mixing and matching.[3][4]
+
+        For example, in other traditional systems, there would be a class message-warning that would apply a yellow background color and bold text. To achieve this result in Tailwind, one would have to apply a set of classes created by the library: bg-yellow-200 and font-bold."
+      },
+      {
+        "id": "6359e362d68bd8bc4b020d92",
+    "category_id": 5,
+        "title": "Programming language",
+        "author": {
+          "name": "JavaScript",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "details": "JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
+
+        Contrary to popular misconception, JavaScript is not "Interpreted Java". In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).
+        
+        JavaScript can function as both a procedural and an object oriented language. Objects are created programmatically in JavaScript, by attaching methods and properties to otherwise empty objects at run time, as opposed to the syntactic class definitions common in compiled languages like C++ and Java. Once an object has been constructed it can be used as a blueprint (or prototype) for creating similar objects.
+        
+        JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for ... in), and source code recovery (JavaScript programs can decompile function bodies back into their source text)."
+      },
+      {
+        "id": "6359e3625c034eece4184952",
+    "category_id": 6,
+        "title": "JavaScript library",
+        "author": {
+          "name": "React",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        "details": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.
+
+        React offers various extensions for entire application architectural support, such as Flux and React Native, beyond mere UI."
+      },
+      {
+        "id": "6359e3627e38c4051efc9f51",
+    "category_id": 7,
+        "title": "Platform",
+        "author": {
+          "name": "Node.js",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+        "details": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications. It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node."
+      },
+      {
+        "id": "6359e362b9b4d1159b9944fd",
+    "category_id": 8,
+        "title": "Company",
+        "author": {
+          "name": "Firebase",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png",
+        "details": "Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server."
+      },
+      {
+        "id": "6359e362f35d9593c2365730",
+    "category_id": 9,
+        "title": "Computer program",
+        "author": {
+          "name": "MongoDB",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://g.foolcdn.com/art/companylogos/square/mdb.png",
+        "details": "MongoDB is a non-relational document database that provides support for JSON-like storage. The MongoDB database has a flexible data model that enables you to store unstructured data, and it provides full indexing support, and replication with rich and intuitive APIs."
+      }
+     
+]
